@@ -113,7 +113,7 @@ const menuItems = [
   name: "Pav Bhaji",
   price: "$12",
   description: "Classic Mumbai street style with buttered pav",
-  image: "src/assets/food/pavbhaji.jpg",
+  image: "https://images.unsplash.com/photo-1606491956689-2ea866880467?w=800&q=80",
   category: "Mains",
 },
 
@@ -131,7 +131,7 @@ const menuItems = [
   name: "Onion Rings",
   price: "$8",
   description: "Beer-battered, golden & crispy",
-  image: "https://unsplash.com/photos/fried-food-on-black-textile-HU_ubYnwElc",
+  image: "https://images.unsplash.com/photo-1639024471283-035566866aba?w=800&q=80",
   category: "Sides",
 },
   {
@@ -147,7 +147,7 @@ const menuItems = [
   name: "Garlic Bread",
   price: "$6",
   description: "Toasted sourdough with garlic butter & herbs",
-  image: "https://unsplash.com/photos/ginger-bread-on-brown-baskets-BRMvT4sw-4c",
+  image: "https://images.unsplash.com/photo-1573140401552-38875564216e?w=800&q=80",
   category: "Sides",
 },
 
@@ -181,7 +181,7 @@ const menuItems = [
     name: "Rasgulla",
     price: "$7",
     description: "Soft spongy cheese balls in light syrup",
-    image: "https://unsplash.com/photos/a-wooden-bowl-filled-with-white-balls-of-food-XH0XpbicHAo",
+    image: "https://images.unsplash.com/photo-1666190092159-3171cf0fbb12?w=800&q=80",
     category: "Desserts",
   },
 
