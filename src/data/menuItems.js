@@ -108,14 +108,7 @@ const menuItems = [
     image: "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=800&q=80",
     category: "Mains",
   },
-  {
-  id: 14,
-  name: "Pav Bhaji",
-  price: "$12",
-  description: "Classic Mumbai street style with buttered pav",
-  image: "https://images.unsplash.com/photo-1606491956689-2ea866880467?w=800&q=80",
-  category: "Mains",
-},
+  
 
   // ========== SIDES ==========
   {
@@ -126,14 +119,7 @@ const menuItems = [
     image: "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800&q=80",
     category: "Sides",
   },
-  {
-  id: 16,
-  name: "Onion Rings",
-  price: "$8",
-  description: "Beer-battered, golden & crispy",
-  image: "https://images.unsplash.com/photo-1639024471283-035566866aba?w=800&q=80",
-  category: "Sides",
-},
+  
   {
     id: 17,
     name: "Loaded Nachos",
@@ -142,14 +128,7 @@ const menuItems = [
     image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=800&q=80",
     category: "Sides",
   },
-  {
-  id: 18,
-  name: "Garlic Bread",
-  price: "$6",
-  description: "Toasted sourdough with garlic butter & herbs",
-  image: "https://images.unsplash.com/photo-1573140401552-38875564216e?w=800&q=80",
-  category: "Sides",
-},
+  
 
   // ========== DESSERTS ==========
   {
@@ -176,14 +155,8 @@ const menuItems = [
     image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&q=80",
     category: "Desserts",
   },
-  {
-    id: 22,
-    name: "Rasgulla",
-    price: "$7",
-    description: "Soft spongy cheese balls in light syrup",
-    image: "https://images.unsplash.com/photo-1666190092159-3171cf0fbb12?w=800&q=80",
-    category: "Desserts",
-  },
+ 
+ 
 
   // ========== DRINKS ==========
   {
