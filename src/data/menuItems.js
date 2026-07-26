@@ -131,7 +131,7 @@ const menuItems = [
   name: "Onion Rings",
   price: "$8",
   description: "Beer-battered, golden & crispy",
-  image: "src/assets/food/onionrings.jpg",
+  image: "https://unsplash.com/photos/fried-food-on-black-textile-HU_ubYnwElc",
   category: "Sides",
 },
   {
@@ -147,7 +147,7 @@ const menuItems = [
   name: "Garlic Bread",
   price: "$6",
   description: "Toasted sourdough with garlic butter & herbs",
-  image: "src/assets/food/garlicbread.jpg",
+  image: "https://unsplash.com/photos/ginger-bread-on-brown-baskets-BRMvT4sw-4c",
   category: "Sides",
 },
 
@@ -181,7 +181,7 @@ const menuItems = [
     name: "Rasgulla",
     price: "$7",
     description: "Soft spongy cheese balls in light syrup",
-    image: "src/assets/food/rasgulla.jpg",
+    image: "https://unsplash.com/photos/a-wooden-bowl-filled-with-white-balls-of-food-XH0XpbicHAo",
     category: "Desserts",
   },
 
